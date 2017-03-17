@@ -1,0 +1,5 @@
+C:\John\programming\csharp\webapi\Chat\ChatData\bin\Debug\ChatData.dll
+C:\John\programming\csharp\webapi\Chat\ChatData\bin\Debug\ChatData.pdb
+C:\John\programming\csharp\webapi\Chat\ChatData\obj\Debug\ChatData.dll
+C:\John\programming\csharp\webapi\Chat\ChatData\obj\Debug\ChatData.pdb
+C:\John\programming\csharp\webapi\Chat\ChatData\obj\Debug\ChatData.csprojResolveAssemblyReference.cache

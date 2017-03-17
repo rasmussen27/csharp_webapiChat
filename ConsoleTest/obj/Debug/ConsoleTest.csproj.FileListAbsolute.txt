@@ -1,0 +1,6 @@
+C:\John\programming\csharp\webapi\Chat\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\John\programming\csharp\webapi\Chat\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\John\programming\csharp\webapi\Chat\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\John\programming\csharp\webapi\Chat\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\John\programming\csharp\webapi\Chat\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\John\programming\csharp\webapi\Chat\ConsoleTest\obj\Debug\ConsoleTest.pdb
