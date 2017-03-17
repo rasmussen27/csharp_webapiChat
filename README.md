@@ -10,19 +10,31 @@ Sql Server/MySQL/PostGres/SQLLite/Mongo/etc... or another type of DBMS.
 Rest based service calls are the following:
 example port is debugging in visual studio
 http://localhost:53011/api/Chat (returns all the messages)
+example output:
+```html
+<ArrayOfstring><string>0|john: message</string><string>1|john: message</string>...
+```
 
 http://localhost:53011/api/Chat/5 (returns the message line at 5 and all subsequent messages ie 5-26)
+example output:
+```html
+<ArrayOfstring><string>5|john: message</string><string>6|john: message</string>...
+```
 
 http://localhost:53011/api/Post/testuser/testpass/testmessage (posts a message to the text file where
 testuser - can be any string it is the user
 testpass - can be any string it is the password (not yet implemented)
 testmessage - can be any string, this is the message 
+example output:
+```html
+<long>28</long>
+```
 
 ConsoleTest is a little console application that lets you call and retreive json or xml from the service.
 
 (this was just used for a quick test)
 Format for the text file is:
-<id>|<user>: <message>
+id|user: message
 
 File is hardcoded to be located in C:\Temp\messages.txt
 ex:
