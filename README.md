@@ -5,7 +5,7 @@ Written by John Rasmussen
 Created with Visual Studio 2017 Community edition.
 
 This is just a test, for data storage it uses a text file, for a real test it should use 
-Sql Server/MySQL/PostGres/SQLLite/Mongo/etc... or another type of DBMS.
+Sql Server/MySQL/PostGres/SQLLite/Mongo/etc... or another type of DBMS (along with Entity Frameword/NHibernate/or plain old sql calls)
 
 Rest based service calls are the following:
 example port is debugging in visual studio
